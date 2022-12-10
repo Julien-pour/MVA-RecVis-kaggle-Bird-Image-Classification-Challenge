@@ -1,2 +1,3 @@
-# MVA RecVis kaggle Bird Image Classification Challenge
- kaggle on Bird Image Classification Challenge rank 3/131
+# Master MVA RecVis, kaggle competition on Bird Image Classification Challenge
+I was ranked 3/131
+ 
